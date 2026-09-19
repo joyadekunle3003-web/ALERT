@@ -1,0 +1,23 @@
+body {
+ background: radial-gradient(circle at center, red 10%, purple, rgb(36, 3, 36)), rgb(70, 6, 70);
+ background-repeat: no-repeat;
+ height: 100vh;
+ width: 100vw;
+ background-attachment:fixed;
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+      color: white;
+}
+button a {
+    color: white;
+    text-decoration: none;
+}
+button {
+    background-color: purple;
+    border: none;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+}
